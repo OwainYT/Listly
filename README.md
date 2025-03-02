@@ -1,1 +1,1 @@
-"# Listly" 
+Listly is a to do list app with a large variety of features, with more in development, this is made by someone who doesn't have any experience with coding so please expect bugs or things breaking as normal features :D
